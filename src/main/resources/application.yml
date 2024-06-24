@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: api-prueba
+    # conexión a base de datos
+  datasource:
+    url: jdbc:mysql://localhost:3306/prueba
+    username: root
+    password: 123456
